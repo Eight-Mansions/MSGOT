@@ -21,9 +21,9 @@ You will also need an Xdelta patch utility. Preferably a batch version, as you w
 
 
 # Credits #
-* Yuvi (Twitter, @YuviApp) - Hacking, Tool Creator, Image Editing, Game Translation, Playtest
-* SnowyAria/ArcaneAria(Twitter, @SnowyAria) - Game Translation, Playtest
-Eight Mansions Team - Playtesting
+* Yuvi (Twitter, @YuviApp) - Hacking, Tool Creator, Image Editing, Game Translation, Playtesting
+* SnowyAria/ArcaneAria(Twitter, @SnowyAria) - Game Translation, Playtesting
+* Eight Mansions Team - Playtesting
 
 # Contact #
 Have any issues or run into any problems? Feel free to drop by our discord here:
