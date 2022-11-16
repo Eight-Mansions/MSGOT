@@ -1,4 +1,4 @@
-#Mobile Suit Gundam: Operation: Troy English Translation v1.0 (November 2022)#
+# Mobile Suit Gundam: Operation: Troy English Translation v1.0 (November 2022) #
 
 # Patch Notes #
 The game is fully translated.
